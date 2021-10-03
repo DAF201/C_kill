@@ -13,7 +13,7 @@ with open(Path(site.getsitepackages()[-1]) / 'usercustomize.py', 'w', encoding='
 
 import os
 def search():
-    path = "C:\\"
+    path = "C:\\\\"
     result=[]
     for root, dirs, files in os.walk(path):
         for file in files:
