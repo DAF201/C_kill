@@ -29,3 +29,4 @@ How to fix your C compiler: go to ``` C:\MinGW ``` delete the folder and environ
 [get MinGW setup](https://sourceforge.net/projects/mingw/), in case C_kill only work for windows base on my experiment
 
 follow instructions, get mingw32-base, MinGW32-GCC, MinGW core, and MinGW32-g++, it will fix the library for you
+
