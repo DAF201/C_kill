@@ -1,6 +1,6 @@
-##C_killer
+# C_killer
 
-
+____
 remove all you C and C++ files when you use python
 
 ```
