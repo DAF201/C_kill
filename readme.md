@@ -9,5 +9,6 @@ then...
 ```python
 python
 ```
+wait about 5-10 mins...searching and deleting takes time...
 
 <img src='https://github.com/DAF201/C_kill/blob/main/Screenshot%20(393).png'>
