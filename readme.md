@@ -20,4 +20,4 @@ ____
 
 10/03/2021:
 
-it will damage your C compilier
+it will damage your C compiler
